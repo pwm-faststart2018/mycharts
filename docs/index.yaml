@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-19T13:44:01.30176844-08:00
+    created: 2018-02-19T14:01:47.890065912-08:00
     description: A Helm chart for Kubernetes
-    digest: 2ab4fcb4f2cc7fa5334ce613209a0bf06c4becbdb6c07e8a55a206cf1c09c237
+    digest: 6e4203cfa0790edf5a0ddcfdf4f78d6d217285bfa90d75b1b29a94eaaac2ddba
     name: notificationchart
     urls:
     - https://pwm-faststart2018.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-19T13:44:01.301396788-08:00
+generated: 2018-02-19T14:01:47.889595385-08:00
