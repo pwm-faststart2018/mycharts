@@ -1,0 +1,4 @@
+#Default values
+# yaml file
+# declear variables
+myvalue: "notification chart"
